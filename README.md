@@ -42,5 +42,9 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [How to remove Character from String in C using Pointer](https://justcode.me/c/how-to-remove-character-from-string-in-c-using-pointer/)
+- [Nested Structure in C Programming with example](https://justcode.me/c/nested-structure-in-c-programming-with-example/)
+- [8086 ALP to Convert Decimal number to Hexadecimal number](https://justcode.me/assembly/8086-alp-to-convert-decimal-to-hexadecimal-number/)
+- [How to create Windows Bootable USB in Ubuntu – WinUSB](https://justcode.me/how-to/how-to-create-windows-bootable-usb-in-ubuntu-winusb/)
 <!-- BLOG-POST-LIST:END -->
 
