@@ -42,9 +42,9 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Why do I need to follow Software Development Process?](https://justcode.me/se/do-i-need-to-follow-software-development-process/)
 - [Choosing the right database for your next project](https://justcode.me/database/choosing-the-right-database-for-your-next-project/)
 - [How to remove Character from String in C using Pointer](https://justcode.me/c/how-to-remove-character-from-string-in-c-using-pointer/)
 - [Nested Structure in C Programming with example](https://justcode.me/c/nested-structure-in-c-programming-with-example/)
-- [8086 ALP to Convert Decimal number to Hexadecimal number](https://justcode.me/assembly/8086-alp-to-convert-decimal-to-hexadecimal-number/)
 <!-- BLOG-POST-LIST:END -->
 
