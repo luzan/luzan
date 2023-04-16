@@ -42,9 +42,9 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Why Idempotency is Critical for Reproducible Data Quality?](https://justcode.me/se/why-idempotency-is-critical-for-reproducible-data-quality/)
 - [The Fundamentals of System Design for Software Engineers](https://justcode.me/se/fundamentals-of-system-design-for-software-engineers/)
 - [Why do I need to follow Software Development Process?](https://justcode.me/se/do-i-need-to-follow-software-development-process/)
 - [Choosing the right database for your next project](https://justcode.me/database/choosing-the-right-database-for-your-next-project/)
-- [How to remove Character from String in C using Pointer](https://justcode.me/c/how-to-remove-character-from-string-in-c-using-pointer/)
 <!-- BLOG-POST-LIST:END -->
 
