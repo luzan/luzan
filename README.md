@@ -42,9 +42,9 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Why Data Engineers Need Git: A Guide to Version Control for Data](https://justcode.me/database/why-data-engineers-need-git/)
 - [WTF is Code Culture and why should you care?](https://justcode.me/se/code-culture/)
 - [Strategy Pattern in Software Development](https://justcode.me/design-patterns/strategy-pattern-in-software-development/)
 - [Why Idempotency is Critical for Reproducible Data Quality?](https://justcode.me/se/why-idempotency-is-critical-for-reproducible-data-quality/)
-- [The Fundamentals of System Design for Software Engineers](https://justcode.me/se/fundamentals-of-system-design-for-software-engineers/)
 <!-- BLOG-POST-LIST:END -->
 
