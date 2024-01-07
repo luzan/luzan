@@ -42,9 +42,9 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Why Data Engineers Need Git: A Guide to Version Control for Data](https://justcode.me/database/why-data-engineers-need-git/)
-- [WTF is Code Culture and why should you care?](https://justcode.me/se/code-culture/)
-- [Strategy Pattern in Software Development](https://justcode.me/design-patterns/strategy-pattern-in-software-development/)
-- [Why Idempotency is Critical for Reproducible Data Quality?](https://justcode.me/se/why-idempotency-is-critical-for-reproducible-data-quality/)
+- [Why Data Engineers Need Git: A Guide to Version Control for Data](https://justcode.me/database/why-data-engineers-need-git/?utm_source=rss&utm_medium=rss&utm_campaign=why-data-engineers-need-git)
+- [WTF is Code Culture and why should you care?](https://justcode.me/se/code-culture/?utm_source=rss&utm_medium=rss&utm_campaign=code-culture)
+- [Strategy Pattern in Software Development](https://justcode.me/design-patterns/strategy-pattern-in-software-development/?utm_source=rss&utm_medium=rss&utm_campaign=strategy-pattern-in-software-development)
+- [Why Idempotency is Critical for Reproducible Data Quality?](https://justcode.me/se/why-idempotency-is-critical-for-reproducible-data-quality/?utm_source=rss&utm_medium=rss&utm_campaign=why-idempotency-is-critical-for-reproducible-data-quality)
 <!-- BLOG-POST-LIST:END -->
 
