@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm a passionate Software Engineer 
 
-- 🔭 I’m currently working on NodeJS / TypeScript / Java / AWS
-- 🌱 I’m currently learning best practices for SRE / DevOps
+- 🔭 I’m currently working on NodeJS / TypeScript
+- 🌱 I’m learning best practices in System Design and Architecture
 - 👯 I’m looking to collaborate on new resilient architectures
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-luzan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luzan)
 - 😄 Pronouns: he/him
