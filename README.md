@@ -42,9 +42,9 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Overengineering Syndrome: Less is More in Software Design](https://justcode.me/se/overengineering-in-software-design/?utm_source=rss&utm_medium=rss&utm_campaign=overengineering-in-software-design)
 - [Factory Pattern in TypeScript: Simplify Coding Secrets](https://justcode.me/design-patterns/factory-pattern-in-typescript/?utm_source=rss&utm_medium=rss&utm_campaign=factory-pattern-in-typescript)
 - [Is Your Development Team Lagging? Uncover Hidden Obstacles](https://justcode.me/se/development-team-obstacles/?utm_source=rss&utm_medium=rss&utm_campaign=development-team-obstacles)
 - [Why Data Engineers Need Git: A Guide to Version Control for Data](https://justcode.me/database/why-data-engineers-need-git/?utm_source=rss&utm_medium=rss&utm_campaign=why-data-engineers-need-git)
-- [WTF is Code Culture and why should you care?](https://justcode.me/se/code-culture/?utm_source=rss&utm_medium=rss&utm_campaign=code-culture)
 <!-- BLOG-POST-LIST:END -->
 
