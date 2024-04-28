@@ -42,9 +42,9 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Crafting Clear Git Commit Messages: A Developer’s Guide](https://justcode.me/git/crafting-clear-git-commit-messages-a-developers-guide/?utm_source=rss&utm_medium=rss&utm_campaign=crafting-clear-git-commit-messages-a-developers-guide)
+- [How to Install and Switch Versions of Node.js Using NVM](https://justcode.me/how-to/how-to-install-and-switch-versions-of-node-js-using-nvm/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-install-and-switch-versions-of-node-js-using-nvm)
 - [Choosing the Right JavaScript Variable: var, let, or const?](https://justcode.me/javascript/choosing-the-right-javascript-variable-var-let-or-const/?utm_source=rss&utm_medium=rss&utm_campaign=choosing-the-right-javascript-variable-var-let-or-const)
 - [Understanding TypeScript Generics: Why and How to use them?](https://justcode.me/typescript/understanding-typescript-generics-why-how-to-use-them/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-typescript-generics-why-how-to-use-them)
-- [Overengineering Syndrome: Less is More in Software Design](https://justcode.me/se/overengineering-in-software-design/?utm_source=rss&utm_medium=rss&utm_campaign=overengineering-in-software-design)
-- [Factory Pattern in TypeScript: Simplify Coding Secrets](https://justcode.me/design-patterns/factory-pattern-in-typescript/?utm_source=rss&utm_medium=rss&utm_campaign=factory-pattern-in-typescript)
 <!-- BLOG-POST-LIST:END -->
 
