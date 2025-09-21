@@ -42,7 +42,7 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Crafting Clear Git Commit Messages: A Developer’s Guide](https://justcode.me/git/crafting-clear-git-commit-messages-a-developers-guide/?utm_source=rss&utm_medium=rss&utm_campaign=crafting-clear-git-commit-messages-a-developers-guide)
+- [How to Write Git Commit Messages That Save Hours of Debugging](https://justcode.me/git/crafting-clear-git-commit-messages-a-developers-guide/?utm_source=rss&utm_medium=rss&utm_campaign=crafting-clear-git-commit-messages-a-developers-guide)
 - [How to Install and Switch Versions of Node.js Using NVM](https://justcode.me/how-to/how-to-install-and-switch-versions-of-node-js-using-nvm/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-install-and-switch-versions-of-node-js-using-nvm)
 - [Choosing the Right JavaScript Variable: var, let, or const?](https://justcode.me/javascript/choosing-the-right-javascript-variable-var-let-or-const/?utm_source=rss&utm_medium=rss&utm_campaign=choosing-the-right-javascript-variable-var-let-or-const)
 - [Understanding TypeScript Generics: Why and How to use them?](https://justcode.me/typescript/understanding-typescript-generics-why-how-to-use-them/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-typescript-generics-why-how-to-use-them)
