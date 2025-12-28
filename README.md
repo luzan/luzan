@@ -4,7 +4,6 @@
 - 🌱 I’m learning best practices in System Design and Architecture
 - 👯 I’m looking to collaborate on new resilient architectures
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-luzan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luzan)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I can read in sanskrit
 
 --- 
